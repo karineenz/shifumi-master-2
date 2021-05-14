@@ -1,0 +1,48 @@
+main {
+  
+        background: url(../images/shifumi.jpg)  no-repeat;
+        -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+   min-width:100%;
+   min-height:80vh;
+   border-radius:  55px;
+
+   border: 7px solid rgb(221, 44, 44);
+}
+
+.titleOne {
+ font-family:  'Rochester', cursive;
+
+ }
+ .footerino{
+ border-radius:  55px;
+ }
+ .styleText {
+    font-family: 'Rochester', cursive;
+ font-size: 1.5rem;
+ }
+ /*karine*/
+ 
+   /* #dropzone {
+    background-color: #FBE5E7;
+    border-style: double black;
+    flex-basis: 100%;
+    flex-grow: 1;
+    padding: 10px;
+    margin-left: 110px;
+    width: 250px;
+    height: 250px;
+    border-radius: 60px; 
+    z-index: 1px;
+  }
+  
+  #chat{
+      margin-top: 250px;
+      padding-top: 50px;
+  }
+  
+  #section{
+      background:white url(./assets/images/shifumi.jpg) no-repeat;
+  }
