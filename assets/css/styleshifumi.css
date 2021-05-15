@@ -1,13 +1,13 @@
 main {
   
-        background: url(../images/shifumi.jpg)  no-repeat;
-        -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
-   min-width:100%;
-   min-height:80vh;
-   border-radius:  55px;
+background: url(../images/shifumi.jpg)  no-repeat;
+-webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+background-size: cover;
+min-width:100%;
+min-height:80vh;
+border-radius:  55px;
 
    border: 7px solid rgb(221, 44, 44);
 }
@@ -23,6 +23,8 @@ main {
     font-family: 'Rochester', cursive;
  font-size: 1.5rem;
  }
+
+ 
  /*karine*/
  
    /* #dropzone {
